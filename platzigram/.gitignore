@@ -108,6 +108,6 @@ db.sqlite3
 media/
 
 #migrations
-/post/migrations
-/users/migrations
+.post/migrations
+.users/migrations
 
